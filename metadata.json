@@ -1,0 +1,15 @@
+{
+  "uuid": "air-raid-widget@unibot.top",
+  "name": "Air Raid Widget for UKRAINE",
+  "description": "Widget for monitoring air raid alerts in Ukraine.",
+  "shell-version": [
+    "45",
+    "46",
+    "47"
+  ],
+  "stylesheet": "stylesheet.css",
+  "version": 1.1,
+  "settings-schema": "org.gnome.shell.extensions.air-raid-widget",
+  "gettext-domain": "air-raid-widget",
+  "extension-type": "system-shell"
+}

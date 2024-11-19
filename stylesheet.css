@@ -1,0 +1,23 @@
+.dialog-background-solid {
+    background-color: rgba(80, 255, 178, 0.69);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.raids-dialog {
+    padding: 10px; /* Отступы для внутренностей диалога */
+}
+
+.button-close {
+    background-color: #EF476F; /* Цвет кнопки, например, красный */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.alert-region {
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "air-raid-widget-linux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dr-mod/air-raid-widget-linux.git"
+  },
+  "private": true
+}
